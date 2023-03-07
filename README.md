@@ -1,14 +1,22 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+# Jonatas Damião
 
-###
+## Olá pessoal 👋
+Amo resolver problemas do dia a dia utilizando a programação.
+<br />
+Software Developer :computer:
+<br />
+Arquiteto de Software
+<br />
 
-<div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=joncodes-stack" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=joncodes-stack" height="150" alt="languages graph"  />
-</div>
 
-###
+ <br/> :Desenvolvedor de software desde 2017, tive início com a linguagem pascal conhecido hoje como delphi dali migrei para o .Net com c# desenvolvendo soluções backend utilizando boas práticas de clean code e arquitetura limpa. Atualmente trabalho na empresa Claro Brasil desenvolvendo soluções tanto para o backend como para frontend utilizando vue .js. Hoje desenvolvo soluções para backend, frontend e mobile.
 
+ <br />
+Seja muito bem vindo ao meu Github!
+
+  
+## MY SKILLS
+ 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" width="42" alt="html5 logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" width="42" alt="css3 logo"  />
