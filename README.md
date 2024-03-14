@@ -9,7 +9,7 @@ Arquiteto de Software
 <br />
 
 
- <br/> Desenvolvedor de software desde 2017, tive início com a linguagem pascal conhecido hoje como delphi dali migrei para o .Net com c# desenvolvendo soluções backend utilizando boas práticas de clean code e arquitetura limpa. Atualmente trabalho na empresa Claro Brasil desenvolvendo soluções tanto para o backend como para frontend utilizando vue .js. Hoje desenvolvo soluções para backend, frontend e mobile.
+ <br/> Atuo como desenvolvedor de software desde 2017, começando minha carreira com a linguagem Pascal, atualmente conhecida como Delphi. Posteriormente, migrei para o ambiente .NET, especializando-me em C# para desenvolver soluções de backend. Nesse processo, apliquei consistentemente boas práticas de programação e princípios de arquitetura de software limpa. No momento, estou empregado na Claro Brasil, onde contribuo com o desenvolvimento de soluções integradas para backend e frontend, utilizando principalmente C#. Minha experiência atual abrange a criação de soluções para backend, frontend e plataformas móveis.
 
  <br />
 Seja muito bem vindo ao meu Github!
