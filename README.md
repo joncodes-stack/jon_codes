@@ -9,7 +9,7 @@ Arquiteto de Software
 <br />
 
 
- <br/> Atuo como desenvolvedor de software desde 2017, começando minha carreira com a linguagem Pascal, atualmente conhecida como Delphi. Posteriormente, migrei para o ambiente .NET, especializando-me em C# para desenvolver soluções de backend. Nesse processo, apliquei consistentemente boas práticas de programação e princípios de arquitetura limpa. No momento, estou empregado na Claro Brasil, onde contribuo com o desenvolvimento de soluções integradas para backend e frontend, utilizando principalmente C#. Minha experiência atual abrange a criação de soluções para backend, frontend e plataformas móveis.
+ <br/> Atuo como desenvolvedor de software desde 2017, iniciando minha carreira com a linguagem Pascal, atualmente conhecida como Delphi. Com o tempo, migrei para o ambiente .NET, especializando-me em C# para criar soluções de backend. Durante essa trajetória, sempre adotei boas práticas de programação e princípios de arquitetura limpa. Atualmente, trabalho na Claro Brasil, onde contribuo para o desenvolvimento de soluções integradas tanto para backend quanto para frontend, com foco principal em C#. Minha experiência atual inclui a criação de soluções para backend, frontend e plataformas móveis.
 
  <br />
 Seja muito bem vindo ao meu Github!
